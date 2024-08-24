@@ -1,0 +1,7 @@
+echo "# Aula-01" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/McMbappe777/Aula-01.git
+ git push -u origin main
